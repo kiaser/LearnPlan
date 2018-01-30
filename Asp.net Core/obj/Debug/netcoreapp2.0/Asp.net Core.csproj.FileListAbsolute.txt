@@ -1,0 +1,10 @@
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\bin\Debug\netcoreapp2.0\Asp.net Core.deps.json
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\bin\Debug\netcoreapp2.0\Asp.net Core.runtimeconfig.json
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\bin\Debug\netcoreapp2.0\Asp.net Core.runtimeconfig.dev.json
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\bin\Debug\netcoreapp2.0\Asp.net Core.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\bin\Debug\netcoreapp2.0\Asp.net Core.pdb
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\obj\Debug\netcoreapp2.0\Asp.net Core.csproj.CoreCompileInputs.cache
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\obj\Debug\netcoreapp2.0\Asp.net Core.AssemblyInfoInputs.cache
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\obj\Debug\netcoreapp2.0\Asp.net Core.AssemblyInfo.cs
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\obj\Debug\netcoreapp2.0\Asp.net Core.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\obj\Debug\netcoreapp2.0\Asp.net Core.pdb
