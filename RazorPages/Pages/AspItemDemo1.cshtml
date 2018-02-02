@@ -1,0 +1,6 @@
+﻿@page
+@model RazorPages.Pages.AspItemDemo1Model
+
+<select asp-for="@Model.DayOfWeek" asp-items="Html.GetEnumSelectList<DayOfWeek>()">
+    <option value="">Pick one</option>
+</select>

@@ -1,0 +1,6 @@
+﻿@page
+@model RazorPages.Pages.Example1Model
+
+<select asp-for="@Model.Person" asp-items="@(new SelectList(Model.People,"Id","Name"))">
+    <option value="">Pick one</option>
+</select>

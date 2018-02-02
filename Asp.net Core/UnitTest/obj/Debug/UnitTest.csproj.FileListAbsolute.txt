@@ -1,0 +1,15 @@
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\UnitTest.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\UnitTest.pdb
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\obj\Debug\UnitTest.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\obj\Debug\UnitTest.pdb
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.abstractions.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.assert.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.core.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.execution.desktop.dll
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.abstractions.xml
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.assert.xml
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.core.xml
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\xunit.execution.desktop.xml
+D:\Kiaser\MyGit\LearnPlan\Asp.net Core\UnitTest\bin\Debug\TinyMapper.dll

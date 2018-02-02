@@ -1,0 +1,12 @@
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\bin\Debug\netcoreapp2.0\RazorPagesIdentity.deps.json
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\bin\Debug\netcoreapp2.0\RazorPagesIdentity.runtimeconfig.json
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\bin\Debug\netcoreapp2.0\RazorPagesIdentity.runtimeconfig.dev.json
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\bin\Debug\netcoreapp2.0\RazorPagesIdentity.dll
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\bin\Debug\netcoreapp2.0\RazorPagesIdentity.pdb
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.csprojResolveAssemblyReference.cache
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.csproj.CoreCompileInputs.cache
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.AssemblyInfoInputs.cache
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.AssemblyInfo.cs
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.dll
+D:\Kiaser\MyGit\LearnPlan\RazorPagesIdentity\obj\Debug\netcoreapp2.0\RazorPagesIdentity.pdb

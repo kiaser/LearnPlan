@@ -1,0 +1,12 @@
+﻿@page
+@model RazorPagesIdentity.Pages.LogoutModel
+@{
+    ViewData["Title"] = "Logout";
+    Layout = null;
+}
+
+<h2>Logout</h2>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
